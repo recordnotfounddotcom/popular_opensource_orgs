@@ -77,3 +77,30 @@
 * Condé Nast https://github.com/CondeNast
 * Confluent https://github.com/confluentinc
 * Criteo https://github.com/Criteo
+
+#### D companies
+* Dailymotion https://github.com/Dailymotion
+* Data Artisans https://github.com/DataArtisans
+* Databricks https://github.com/Databricks
+* DataFox https://github.com/DataFoxCo
+* DataRank https://github.com/DataRank
+* DeferPanic https://github.com/DeferPanic
+* Deis https://github.com/Deis
+* Deliveroo https://github.com/Deliveroo
+* DigitalOcean https://github.com/DigitalOcean
+* Docker https://github.com/Docker
+* Dropbox https://github.com/Dropbox
+
+#### E companies
+* Ebay https://github.com/Ebay
+* eFounders https://github.com/eFounders
+* Eharmony https://github.com/Eharmony
+* Elastic https://github.com/Elastic
+* Engine Yard https://github.com/EngineYard
+* Envato https://github.com/Envato
+* Erlang Solutions https://github.com/esl
+* Etsy https://github.com/Etsy
+* Eventbrite https://github.com/Eventbrite
+* Evernote https://github.com/Evernote
+* Evil Martians https://github.com/EvilMartians
+* Expedia https://github.com/ExpediaInc
