@@ -34,3 +34,24 @@
 * Autodesk https://github.com/Autodesk
 * AWS https://github.com/AWS
 * Azavea https://github.com/Azavea
+
+#### B companies
+* Backtrace https://github.com/backtrace-labs
+* Badoo https://github.com/Badoo
+* Baidu Research https://github.com/baidu-research
+* Bazaarvoice https://github.com/bazaarvoice
+* Benchling https://github.com/Benchling
+* Bigcommerce https://github.com/Bigcommerce
+* Binary Studio https://github.com/B1naryStudio
+* Bitly https://github.com/Bitly
+* BitTorrent https://github.com/BitTorrent
+* BlaBlaCar https://github.com/BlaBlaCar
+* BlackRock https://github.com/BlackRock
+* Blogfoster https://github.com/Blogfoster
+* BloomReach https://github.com/BloomReach
+* Booking.com https://github.com/Bookingcom
+* Box https://github.com/Box
+* Boxever https://github.com/boxever
+* Brandwatch https://github.com/BrandwatchLtd
+* Buzzfeed https://github.com/Buzzfeed
+
