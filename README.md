@@ -55,3 +55,25 @@
 * Brandwatch https://github.com/BrandwatchLtd
 * Buzzfeed https://github.com/Buzzfeed
 
+#### C companies
+* Canva https://github.com/Canva
+* Cerner https://github.com/Cerner
+* Chaps https://github.com/chaps-io
+* Chartbeat https://github.com/Chartbeat
+* Chef https://github.com/Chef
+* Clever https://github.com/Clever
+* CleverTap https://github.com/CleverTap
+* Cloudera https://github.com/Cloudera
+* Cloudflare https://github.com/Cloudflare
+* ClusterHQ https://github.com/ClusterHQ
+* CockroachDB https://github.com/CockroachDB
+* Code School https://github.com/codeschool
+* Codelitt https://github.com/codelittinc
+* Codemancers https://github.com/code-mancers
+* CodeName One https://github.com/codenameone
+* Codeship https://github.com/Codeship
+* Collective Idea https://github.com/CollectiveIdea
+* Commercetools https://github.com/Commercetools
+* Condé Nast https://github.com/CondeNast
+* Confluent https://github.com/confluentinc
+* Criteo https://github.com/Criteo
