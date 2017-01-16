@@ -104,3 +104,15 @@
 * Evernote https://github.com/Evernote
 * Evil Martians https://github.com/EvilMartians
 * Expedia https://github.com/ExpediaInc
+
+#### F companies
+* Facebook https://github.com/Facebook
+* Fiftythree https://github.com/Fiftythree
+* Findmypast https://github.com/Findmypast
+* Firmafon https://github.com/Firmafon
+* Flickr https://github.com/Flickr
+* Flipboard https://github.com/Flipboard
+* Flipkart https://github.com/Flipkart
+* Foursquare https://github.com/Foursquare
+* Funding Circle https://github.com/FundingCircle
+* Future Processing https://github.com/FutureProcessing
