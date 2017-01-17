@@ -116,3 +116,20 @@
 * Foursquare https://github.com/Foursquare
 * Funding Circle https://github.com/FundingCircle
 * Future Processing https://github.com/FutureProcessing
+
+#### G companies
+* Galois https://github.com/GaloisInc
+* Gilt https://github.com/Gilt
+* GitHub https://github.com/GitHub
+* Gnip https://github.com/Gnip
+* GoCardless https://github.com/GoCardless
+* Good Eggs https://github.com/GoodEggs
+* Google https://github.com/google
+* GoSquared https://github.com/GoSquared
+* Grammarly https://github.com/Grammarly
+* Grouper https://github.com/Grouper
+* Groupon https://github.com/Groupon
+* Guardian https://github.com/Guardian
+* Gusto https://github.com/Gusto
+
+
