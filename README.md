@@ -132,4 +132,16 @@
 * Guardian https://github.com/Guardian
 * Gusto https://github.com/Gusto
 
+#### H companies
+* HackerEarth https://github.com/HackerEarth
+* Harry's https://github.com/harrystech
+* Hashrocket https://github.com/Hashrocket
+* Heroku https://github.com/Heroku
+* HireArt https://github.com/HireArt
+* Holiday Extras https://github.com/HolidayExtras
+* Honeybadger https://github.com/honeybadger-io
+* Hootsuite https://github.com/Hootsuite
+* Hoteltonight https://github.com/Hoteltonight
+* HubSpot https://github.com/HubSpot
+* Huddle https://github.com/Huddle
 
