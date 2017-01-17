@@ -299,3 +299,54 @@
 * Tumblr https://github.com/Tumblr
 * Twilio https://github.com/Twilio
 * Twitter https://github.com/Twitter
+
+#### U companies
+* Uber https://github.com/Uber
+* Upday https://github.com/Upday
+
+#### V companies
+* Vena Solutions https://github.com/VenaSolutions
+* Venmo https://github.com/Venmo
+* VersionEye https://github.com/VersionEye
+* Vevo https://github.com/Vevo
+* Viget https://github.com/vigetlabs
+* Vine https://github.com/Vine
+* Vinted https://github.com/Vinted
+* VNGRS https://github.com/VNGRS
+
+#### W companies
+* WalmartLabs https://github.com/WalmartLabs
+* Warby Parker https://github.com/WarbyParker
+* Wattpad https://github.com/Wattpad
+* Wayfair https://github.com/Wayfair
+* Wealthfront https://github.com/Wealthfront
+* We Are Wizards https://github.com/WeAreWizards
+* WebEngage https://github.com/WebEngage
+* Wimdu https://github.com/Wimdu
+* Wingify https://github.com/Wingify
+* Wix https://github.com/Wix
+* Wolox https://github.com/Wolox
+* WSO2 https://github.com/WSO2
+* WyeWorks https://github.com/WyeWorks
+
+#### X companies
+* XING https://github.com/XING
+
+#### Y companies
+* Yahoo https://github.com/Yahoo
+* Yammer https://github.com/Yammer
+* Yelp https://github.com/Yelp
+* YLD! https://github.com/yldio
+
+#### Z companies
+* Zalando https://github.com/Zalando
+* ZeeMee https://github.com/ZeeMee
+* Zendesk https://github.com/Zendesk
+* Zenefits https://github.com/Zenefits
+* Zillow https://github.com/Zillow
+* Zomato https://github.com/Zomato
+* Zoosk https://github.com/Zoosk
+* Zulily https://github.com/Zulily
+* Zumba https://github.com/Zumba
+* Zynga https://github.com/Zynga
+
