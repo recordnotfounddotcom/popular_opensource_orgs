@@ -1,4 +1,4 @@
-# Popular Opensource Repos
+# Popular Opensource Organizations
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
