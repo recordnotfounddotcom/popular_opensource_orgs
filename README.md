@@ -165,3 +165,42 @@
 * Jolly Good Code https://github.com/JollyGoodCode
 * Just Eat https://github.com/JustEat
 
+#### K companies
+* Khan Academy https://github.com/Khan
+* Kickstarter https://github.com/Kickstarter
+* King https://github.com/King
+* Kinvolk https://github.com/Kinvolk
+* Kogan.com https://github.com/kogan
+
+#### L companies
+* Laterooms https://github.com/LateRoomsGroup
+* LendingHome https://tech.lendinghome.com/
+* LINE https://github.com/LINE
+* Linkedcare https://github.com/croudcare
+* LinkedIn https://github.com/LinkedIn
+* LiveChat https://github.com/LiveChat
+* LiveRamp https://github.com/LiveRamp
+* LivingSocial https://github.com/LivingSocial
+* Localytics https://github.com/Localytics
+* Lookout https://github.com/Lookout
+* Lyft https://github.com/Lyft
+
+#### M companies
+* Machinalis https://github.com/Machinalis
+* Made Tech https://github.com/MadeTech
+* MailChimp https://github.com/MailChimp
+* Medallia https://github.com/Medallia
+* Medium https://github.com/Medium
+* MemSQL https://github.com/MemSQL
+* Microsoft https://github.com/microsoft
+* Mixmax https://github.com/mixmaxhq
+* Mixpanel https://github.com/Mixpanel
+* Monetate https://github.com/Monetate
+* MoneyBird https://github.com/MoneyBird
+* MongoDB https://github.com/MongoDB
+* Monsanto https://github.com/MonsantoCo
+* Moove-it https://github.com/moove-it
+* Mozilla https://github.com/Mozilla
+* Myntra https://github.com/Myntra
+
+
