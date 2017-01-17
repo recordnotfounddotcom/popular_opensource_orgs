@@ -145,3 +145,23 @@
 * HubSpot https://github.com/HubSpot
 * Huddle https://github.com/Huddle
 
+#### I companies
+* IFTTT https://github.com/IFTTT
+* IMVU https://github.com/IMVU
+* Imaginea https://github.com/Imaginea
+* Imgur https://github.com/Imgur
+* Inaka https://github.com/Inaka
+* Indeed https://github.com/indeedeng/
+* Instacart https://github.com/Instacart
+* Instagram https://github.com/Instagram
+* Intel https://github.com/Intel
+* Intent HQ https://github.com/IntentHQ
+* Intent Media https://github.com/IntentMedia
+* Intercom https://github.com/Intercom
+* InVision https://github.com/InVisionApp
+
+#### J companies
+* Jane Street https://github.com/JaneStreet
+* Jolly Good Code https://github.com/JollyGoodCode
+* Just Eat https://github.com/JustEat
+
