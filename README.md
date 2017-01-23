@@ -133,6 +133,7 @@
 * Gusto https://github.com/Gusto
 
 #### H companies
+* H2O AI https://github.com/h2oai
 * HackerEarth https://github.com/HackerEarth
 * Harry's https://github.com/harrystech
 * Hashrocket https://github.com/Hashrocket
