@@ -175,7 +175,7 @@
 
 #### L companies
 * Laterooms https://github.com/LateRoomsGroup
-* LendingHome https://tech.lendinghome.com/
+* LendingHome https://github.com/LendingHome
 * LINE https://github.com/LINE
 * Linkedcare https://github.com/croudcare
 * LinkedIn https://github.com/LinkedIn
