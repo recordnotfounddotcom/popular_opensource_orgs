@@ -240,7 +240,6 @@
 * Raizlabs https://github.com/Raizlabs
 * Realm.io https://github.com/realm
 * Redbubble https://github.com/Redbubble
-* Red Hat https://developerblog.redhat.com
 * Remind https://github.com/remind101
 * RetailMeNot https://github.com/RetailMeNot
 * Rightscale https://github.com/Rightscale
