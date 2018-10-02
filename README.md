@@ -147,6 +147,7 @@
 * Huddle https://github.com/Huddle
 
 #### I companies
+* IBM https://github.com/IBM
 * IFTTT https://github.com/IFTTT
 * IMVU https://github.com/IMVU
 * Imaginea https://github.com/Imaginea
